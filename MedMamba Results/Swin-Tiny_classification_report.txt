@@ -1,0 +1,15 @@
+                                      precision    recall  f1-score   support
+
+                             adipose       0.95      0.99      0.97      1338
+                          background       0.98      1.00      0.99       847
+                              debris       0.45      0.64      0.53       339
+                         lymphocytes       0.79      0.98      0.87       634
+                               mucus       0.97      0.86      0.91      1035
+                       smooth muscle       0.80      0.71      0.75       592
+                 normal colon mucosa       0.83      0.79      0.81       741
+            cancer-associated stroma       0.53      0.39      0.45       421
+colorectal adenocarcinoma epithelium       0.87      0.84      0.86      1233
+
+                            accuracy                           0.85      7180
+                           macro avg       0.80      0.80      0.79      7180
+                        weighted avg       0.86      0.85      0.85      7180
